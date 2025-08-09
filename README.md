@@ -1,7 +1,4 @@
 # fruitlessss
-!Image(https://drive.google.com/file/d/1Ui3VeCpNaVWcfy3_C20adyOFa_R6VNpk/view?usp=drivesdk)
-
-# fruitlessss
 
 arfan bt
 
@@ -48,5 +45,7 @@ Use analogRead() for MQ135 and pulseIn() for ultrasonic sensor to get distance.
 Based on thresholds for air quality and proximity, control LEDs and servo movements to indicate different states.
 Use Serial Monitor to display real-time sensor values and states.
 
+!Image(https://drive.google.com/file/d/1Ui3VeCpNaVWcfy3_C20adyOFa_R6VNpk/view?usp=drivesdk)
 
+https://drive.google.com/file/d/1Du7YRRhKCQMyUulzg6mJJcr_MAMJrYzH/view?usp=drivesdk
 
