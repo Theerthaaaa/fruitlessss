@@ -47,6 +47,4 @@ Use Serial Monitor to display real-time sensor values and states.
 
 Image(https://drive.google.com/file/d/1Ui3VeCpNaVWcfy3_C20adyOFa_R6VNpk/view?usp=drivesdk)
 
-videohttps://drive.google.com/file/d/1O2mabGkLjyHQ2EjVE0nj6dY-RKwY7oyR/view?usp=drivesdk
-
 https://drive.google.com/file/d/1O2mabGkLjyHQ2EjVE0nj6dY-RKwY7oyR/view?usp=drivesdk
